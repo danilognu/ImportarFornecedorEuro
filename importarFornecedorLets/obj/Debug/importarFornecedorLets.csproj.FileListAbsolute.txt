@@ -1,0 +1,7 @@
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\bin\Debug\importarFornecedorLets.exe.config
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\bin\Debug\importarFornecedorLets.exe
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\bin\Debug\importarFornecedorLets.pdb
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\obj\Debug\importarFornecedorLets.csprojAssemblyReference.cache
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\obj\Debug\importarFornecedorLets.csproj.CoreCompileInputs.cache
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\obj\Debug\importarFornecedorLets.exe
+C:\webservicos\util\importarFornecedorLets\importarFornecedorLets\obj\Debug\importarFornecedorLets.pdb
